@@ -277,12 +277,13 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    }
+}
 
 
 header .image-arrow{
     text-align: center;
     margin-top: 10rem;
+
 
  
 }
@@ -334,4 +335,19 @@ header .image-arrow{
 h1{
     line-height: 2rem;
 }
+
+header{
+    background-image: url(./images/desktop/image-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 15rem;
+
 }
+
+header .image-arrow{
+    display: none;
+ 
+}
+}
+
